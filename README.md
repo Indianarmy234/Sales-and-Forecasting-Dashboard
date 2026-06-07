@@ -154,6 +154,6 @@ Business Benefits
 
 ✅ Future sales prediction
 
-Project Outcome
+# Project Outcome
 
 This dashboard transforms raw sales data into meaningful business insights through interactive visualizations and predictive analytics. It enables stakeholders to monitor business performance, identify trends, understand customer behavior, and forecast future sales, ultimately supporting strategic growth and operational efficiency.
