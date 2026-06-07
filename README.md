@@ -1,13 +1,13 @@
 # Sales-and-Forecasting-Dashboard
 
-📊 Sales & Forecasting Dashboard | Power BI
-Overview
+# 📊 Sales & Forecasting Dashboard | Power BI
+# Overview
 
 The Sales & Forecasting Dashboard is an interactive business intelligence solution developed in Power BI to analyze sales performance, profitability, customer segments, shipping methods, payment modes, and future sales trends. The dashboard provides actionable insights that help stakeholders make data-driven decisions and improve business performance.
 
 This project combines historical sales analysis with a 15-day sales forecasting model, enabling organizations to monitor current performance and anticipate future demand.
 
-Dashboard Objectives
+# Dashboard Objectives
 Analyze overall sales and profit performance.
 Monitor average delivery time.
 Identify top-performing product categories and sub-categories.
@@ -18,7 +18,7 @@ Analyze regional and state-wise sales performance.
 Predict future sales using forecasting techniques.
 Key Performance Indicators (KPIs)
 
-The dashboard provides the following business metrics:
+# The dashboard provides the following business metrics:
 
 KPI	Value
 Total Sales	$341K
@@ -27,8 +27,8 @@ Average Delivery Time	4.0 Days
 
 These KPIs provide a quick snapshot of business health and operational efficiency.
 
-Dashboard Features
-1. Sales by Category Analysis
+# Dashboard Features
+# 1. Sales by Category Analysis
 
 The dashboard categorizes sales into major product categories:
 
@@ -38,7 +38,7 @@ Technology
 
 This visualization helps identify the highest revenue-generating product categories and supports inventory planning and marketing strategies.
 
-2. Sales by Sub-Category
+# 2. Sales by Sub-Category
 
 Detailed sales breakdown for product sub-categories such as:
 
@@ -48,7 +48,7 @@ Phones
 
 This analysis helps determine which products contribute most significantly to revenue generation.
 
-3. Sales by Ship Mode
+# 3. Sales by Ship Mode
 
 The dashboard tracks order distribution across shipping methods:
 
@@ -59,7 +59,7 @@ Same Day
 
 This insight helps evaluate logistics performance and customer delivery preferences.
 
-4. Monthly Sales Trend Analysis
+# 4. Monthly Sales Trend Analysis
 
 A monthly sales trend chart displays sales performance across:
 
@@ -71,14 +71,14 @@ Benefits:
 Identify seasonal demand patterns.
 Detect peak and low sales periods.
 Support strategic business planning.
-5. Year-over-Year (YoY) Profit Analysis
+# 5. Year-over-Year (YoY) Profit Analysis
 
 The dashboard compares monthly profits across different years to:
 
 Measure business growth.
 Identify profitable periods.
 Evaluate financial performance trends.
-6. Customer Segment Analysis
+# 6. Customer Segment Analysis
 
 Sales distribution is analyzed across customer segments:
 
@@ -88,7 +88,7 @@ Home Office (20%)
 
 This segmentation enables businesses to understand their primary customer base and tailor marketing strategies accordingly.
 
-7. Payment Mode Analysis
+# 7. Payment Mode Analysis
 
 Sales are analyzed by payment method:
 
@@ -98,7 +98,7 @@ Cards – 20%
 
 These insights help businesses understand customer payment preferences and optimize payment infrastructure.
 
-8. State-Wise Sales Performance
+# 8. State-Wise Sales Performance
 
 The dashboard visualizes top-performing states based on sales revenue:
 
@@ -117,7 +117,7 @@ North Carolina
 
 This geographical analysis helps identify high-performing markets and potential growth opportunities.
 
-9. Sales Forecasting (15-Day Prediction)
+# 9. Sales Forecasting (15-Day Prediction)
 
 One of the most powerful features of the dashboard is the 15-Day Sales Forecasting Model.
 
